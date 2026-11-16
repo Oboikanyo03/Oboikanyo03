@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Portfolio Project**  
+🔭 &nbsp;I'm currently working on **SecureBankCore, a python project**  
 🌱 &nbsp;I'm currently learning **Python**  
 👯 &nbsp;I'm looking to collaborate on **open-source developer tools**  
 😄 &nbsp;Pronouns: **she/her**
